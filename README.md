@@ -1,1 +1,1 @@
-"# techgenius_desktop_release" 
+# techgenius desktop releases
